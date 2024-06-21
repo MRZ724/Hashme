@@ -21,7 +21,7 @@ def banner():
 	print("_"*67)
 	print(a)
 	print(b)
-	print("powerd by team Anon404 \ncreated by MRZ724")
+	print("powerd by team Anon404 \ncreated by William Steven")
 	print("_"*67)
 banner()
 i = 1
